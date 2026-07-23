@@ -1,7 +1,6 @@
 # Asian Monsoon Flood Prediction & Risk Index
 ## High-Resolution Meteorological, Topographical, and Land-Cover Datasets for Advanced Natural Disaster Modeling
 
-Kaggle Link: https://www.kaggle.com/datasets/aliahmadmphil/asian-monsoon-flood-prediction-and-risk-index
 
 ### Context
 Accurate flood risk assessment across South and Southeast Asia requires accounting for complex interactions between monsoonal climate anomalies, regional topography, and human-driven environmental modifications. This benchmark dataset merges simulated multi-modal features calibrated against historical river basin profiles from 2015 to 2026.
