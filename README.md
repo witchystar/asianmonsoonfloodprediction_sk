@@ -3,11 +3,11 @@
 
 Kaggle Link: https://www.kaggle.com/datasets/aliahmadmphil/asian-monsoon-flood-prediction-and-risk-index
 
-### Header
+### Framework & Discovery
 IDK
 
-### Header
+### Data Preparation & Exploration
 IDK
 
-### Header
+### Model Selection & Mathematical Framing
 IDK
