@@ -1,4 +1,4 @@
-# Homework 6 - Case Study 3 Report
+# Homework 6 - Case Study 3 Report: Asian Monsoon Flood Risk Index Prediction App
 ## By: Shaniya Khatua
 
 Kaggle Link to Dataset: https://www.kaggle.com/datasets/aliahmadmphil/asian-monsoon-flood-prediction-and-risk-index
